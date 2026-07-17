@@ -1,0 +1,260 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.costanoa.vc/portfolio
+summary:
+  portfolio_total: 24
+  in_network: 6
+  api_providers: 3
+  missing: 18
+  stubs_created: 0
+companies:
+- name: Alation
+  url: https://www.alation.com
+  description: Enterprise data catalog and data intelligence / governance platform.
+  sector: data-infrastructure
+  stage: growth
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  slug: alation
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Assured
+  url: https://www.assured.com
+  description: Frontier AI for property & casualty insurance claims automation.
+  sector: insurtech
+  stage: series-a
+  status: active
+  lead: true
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: assured
+- name: Auterion
+  url: https://auterion.com
+  description: Open software operating system for enterprise and defense drones/UAVs.
+  sector: defense-aerospace
+  stage: growth
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: auterion
+- name: Basis Theory
+  url: https://basistheory.com
+  description: Developer platform for payment card tokenization and sensitive data security.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  slug: basis-theory
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cape
+  url: https://cape.co
+  description: Privacy-first mobile carrier that removes personal-data tracking.
+  sector: security
+  stage: series-a
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cape
+- name: Comun
+  url: https://www.comun.app
+  description: Latino-first neobank and mobile banking app for immigrants in the US.
+  sector: fintech
+  stage: seed
+  status: active
+  lead: true
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: comun
+- name: Cyberhaven
+  url: https://www.cyberhaven.com
+  description: Data detection and response (DDR) platform for insider-risk and data security.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cyberhaven
+- name: Empirical Security
+  url: https://www.empiricalsecurity.com
+  description: Data-driven AI models for cybersecurity, maintainer of the EPSS exploitation model.
+  sector: security
+  stage: seed
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: empirical-security
+- name: Feldera
+  url: https://www.feldera.com
+  description: Real-time incremental compute engine for continuous SQL pipelines.
+  sector: data-infrastructure
+  stage: seed
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: feldera
+- name: Hidden Level
+  url: https://hiddenlevel.com
+  description: Passive airspace-awareness and drone-detection sensor network.
+  sector: defense-aerospace
+  stage: series-b
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hidden-level
+- name: Highnote
+  url: https://highnoteplatform.com
+  description: All-in-one card issuing and embedded fintech platform.
+  sector: fintech
+  stage: series-a
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  slug: highnote
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Ivo
+  url: https://www.ivo.ai
+  description: AI contract review and redlining for in-house legal teams.
+  sector: legal-ai
+  stage: series-a
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ivo
+- name: Kepler Communications
+  url: https://kepler.space
+  description: Space-based telecommunications and in-space data-relay satellite network.
+  sector: aerospace
+  stage: growth
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kepler-communications
+- name: Lively
+  url: https://livelyme.com
+  description: Modern health savings account (HSA) and benefits platform.
+  sector: fintech-healthtech
+  stage: series-c
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lively
+- name: Marble Health
+  url: https://marblehealth.com
+  description: Virtual, in-network therapy platform for students and teens.
+  sector: healthtech
+  stage: seed
+  status: active
+  lead: true
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: marble-health
+- name: Muon Space
+  url: https://www.muonspace.com
+  description: Small-satellite constellations for Earth observation and climate/science data.
+  sector: aerospace
+  stage: series-b
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  slug: muon-space
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Numa
+  url: https://numa.com
+  description: AI operating system and agent platform for car dealerships.
+  sector: vertical-ai
+  stage: series-b
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: numa
+- name: PayNearMe
+  url: https://www.paynearme.com
+  description: Cash and digital payments acceptance and money-movement platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paynearme
+- name: Quizlet
+  url: https://quizlet.com
+  description: AI-powered learning and study tools platform for students.
+  sector: edtech
+  stage: growth
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  slug: quizlet
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Rerun
+  url: https://rerun.io
+  description: Open-source data-visualization and streaming layer for physical AI and robotics.
+  sector: dev-tools-ai
+  stage: seed
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rerun
+- name: RunReveal
+  url: https://runreveal.com
+  description: Security data lake and SIEM built on modern data infrastructure.
+  sector: security
+  stage: seed
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: runreveal
+- name: SGNL
+  url: https://sgnl.ai
+  description: Continuous identity and runtime authorization security platform.
+  sector: security
+  stage: series-a
+  status: acquired
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sgnl
+- name: Shepherd
+  url: https://www.withshepherd.com
+  description: Tech-enabled commercial insurance for the construction industry.
+  sector: insurtech
+  stage: series-a
+  status: active
+  lead: true
+  source: https://www.costanoa.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shepherd
+- name: Vannevar Labs
+  url: https://vannevarlabs.com
+  description: AI-powered intelligence and defense software for national security.
+  sector: defense
+  stage: growth
+  status: active
+  source: https://www.costanoa.vc/portfolio
+  slug: vannevar-labs
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
