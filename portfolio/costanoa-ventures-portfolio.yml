@@ -3,9 +3,9 @@ method: searched
 source: https://www.costanoa.vc/portfolio
 summary:
   portfolio_total: 24
-  in_network: 6
-  api_providers: 3
-  missing: 18
+  in_network: 24
+  api_providers: 5
+  missing: 0
   stubs_created: 0
 companies:
 - name: Alation
@@ -27,9 +27,10 @@ companies:
   status: active
   lead: true
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: assured
+  slug: assured
+  matched_by: domain
 - name: Auterion
   url: https://auterion.com
   description: Open software operating system for enterprise and defense drones/UAVs.
@@ -37,9 +38,10 @@ companies:
   stage: growth
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: auterion
+  slug: auterion
+  matched_by: domain
 - name: Basis Theory
   url: https://basistheory.com
   description: Developer platform for payment card tokenization and sensitive data security.
@@ -58,9 +60,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cape
+  slug: cape
+  matched_by: domain
 - name: Comun
   url: https://www.comun.app
   description: Latino-first neobank and mobile banking app for immigrants in the US.
@@ -69,9 +72,10 @@ companies:
   status: active
   lead: true
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: comun
+  slug: comun
+  matched_by: domain
 - name: Cyberhaven
   url: https://www.cyberhaven.com
   description: Data detection and response (DDR) platform for insider-risk and data security.
@@ -79,9 +83,10 @@ companies:
   stage: growth
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cyberhaven
+  slug: cyberhaven
+  matched_by: domain
 - name: Empirical Security
   url: https://www.empiricalsecurity.com
   description: Data-driven AI models for cybersecurity, maintainer of the EPSS exploitation model.
@@ -89,9 +94,10 @@ companies:
   stage: seed
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: empirical-security
+  in_network: true
+  is_api_provider: true
+  slug: empirical-security
+  matched_by: domain
 - name: Feldera
   url: https://www.feldera.com
   description: Real-time incremental compute engine for continuous SQL pipelines.
@@ -99,9 +105,10 @@ companies:
   stage: seed
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: feldera
+  in_network: true
+  is_api_provider: true
+  slug: feldera
+  matched_by: domain
 - name: Hidden Level
   url: https://hiddenlevel.com
   description: Passive airspace-awareness and drone-detection sensor network.
@@ -109,9 +116,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hidden-level
+  slug: hidden-level
+  matched_by: domain
 - name: Highnote
   url: https://highnoteplatform.com
   description: All-in-one card issuing and embedded fintech platform.
@@ -130,9 +138,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ivo
+  slug: ivo
+  matched_by: domain
 - name: Kepler Communications
   url: https://kepler.space
   description: Space-based telecommunications and in-space data-relay satellite network.
@@ -140,9 +149,10 @@ companies:
   stage: growth
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kepler-communications
+  slug: kepler-communications
+  matched_by: domain
 - name: Lively
   url: https://livelyme.com
   description: Modern health savings account (HSA) and benefits platform.
@@ -150,9 +160,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lively
+  slug: lively
+  matched_by: domain
 - name: Marble Health
   url: https://marblehealth.com
   description: Virtual, in-network therapy platform for students and teens.
@@ -161,9 +172,10 @@ companies:
   status: active
   lead: true
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: marble-health
+  slug: marble-health
+  matched_by: domain
 - name: Muon Space
   url: https://www.muonspace.com
   description: Small-satellite constellations for Earth observation and climate/science data.
@@ -182,9 +194,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: numa
+  slug: numa
+  matched_by: domain
 - name: PayNearMe
   url: https://www.paynearme.com
   description: Cash and digital payments acceptance and money-movement platform.
@@ -192,9 +205,10 @@ companies:
   stage: growth
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: paynearme
+  slug: paynearme
+  matched_by: domain
 - name: Quizlet
   url: https://quizlet.com
   description: AI-powered learning and study tools platform for students.
@@ -213,9 +227,10 @@ companies:
   stage: seed
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rerun
+  slug: rerun
+  matched_by: domain
 - name: RunReveal
   url: https://runreveal.com
   description: Security data lake and SIEM built on modern data infrastructure.
@@ -223,9 +238,10 @@ companies:
   stage: seed
   status: active
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: runreveal
+  slug: runreveal
+  matched_by: domain
 - name: SGNL
   url: https://sgnl.ai
   description: Continuous identity and runtime authorization security platform.
@@ -233,9 +249,10 @@ companies:
   stage: series-a
   status: acquired
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sgnl
+  slug: sgnl
+  matched_by: domain
 - name: Shepherd
   url: https://www.withshepherd.com
   description: Tech-enabled commercial insurance for the construction industry.
@@ -244,9 +261,10 @@ companies:
   status: active
   lead: true
   source: https://www.costanoa.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shepherd
+  slug: shepherd
+  matched_by: name-slug
 - name: Vannevar Labs
   url: https://vannevarlabs.com
   description: AI-powered intelligence and defense software for national security.
