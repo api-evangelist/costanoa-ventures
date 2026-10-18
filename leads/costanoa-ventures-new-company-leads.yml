@@ -1,4 +1,18 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: costanoa-ventures
-leads: []
+leads:
+- name: Highnote
+  url: https://highnoteplatform.com
+  suggested_slug: highnoteplatform-com
+  sector: fintech
+  source_vc: costanoa-ventures
+  source: https://www.costanoa.vc/portfolio
+  stub_created: false
+- name: Shepherd
+  url: https://www.withshepherd.com
+  suggested_slug: withshepherd-com
+  sector: insurtech
+  source_vc: costanoa-ventures
+  source: https://www.costanoa.vc/portfolio
+  stub_created: false

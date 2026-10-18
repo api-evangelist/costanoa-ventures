@@ -3,9 +3,9 @@ method: searched
 source: https://www.costanoa.vc/portfolio
 summary:
   portfolio_total: 24
-  in_network: 24
-  api_providers: 5
-  missing: 0
+  in_network: 22
+  api_providers: 4
+  missing: 2
   stubs_created: 0
 companies:
 - name: Alation
@@ -127,10 +127,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.costanoa.vc/portfolio
-  slug: highnote
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: highnote
+  suggested_slug: highnoteplatform-com
 - name: Ivo
   url: https://www.ivo.ai
   description: AI contract review and redlining for in-house legal teams.
@@ -261,10 +261,10 @@ companies:
   status: active
   lead: true
   source: https://www.costanoa.vc/portfolio
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: shepherd
-  matched_by: name-slug
+  x-name-collision: shepherd
+  suggested_slug: withshepherd-com
 - name: Vannevar Labs
   url: https://vannevarlabs.com
   description: AI-powered intelligence and defense software for national security.
@@ -272,7 +272,7 @@ companies:
   stage: growth
   status: active
   source: https://www.costanoa.vc/portfolio
-  slug: vannevar-labs
+  slug: vannevar
   in_network: true
   is_api_provider: false
   matched_by: domain
